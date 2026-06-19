@@ -27,5 +27,5 @@ A simple Python project that helps students track their daily expenses.
 ## How to Run
 
 ```bash
-python expense_tracker.py
+Student Expense Tracker.py
 ```
